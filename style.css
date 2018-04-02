@@ -1,0 +1,75 @@
+.background{
+    background:black;
+}
+.signature{
+margin-top: 10%;
+color: silver;
+font-family: sans-serif;
+text-align: center;
+}
+#top{
+    text-align: center;
+}
+#select{
+    color: white;
+    font-size: 20px;
+    margin-left:40%;
+    font-family: monospace;
+    text-decoration: underline;
+}
+#title{
+    color:#ff02ee;
+    font-family: monoton;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+}
+.btn{
+    font-size: 50px;
+    color: blue;
+    width: 90px;
+    height: 90px;
+    background-color: black;
+}
+#game{
+    margin-left: 40%;
+    margin-top:5%
+}
+.well{
+    background-color: #E73CDA;
+    padding-right: 13px;
+    padding-left: 13px;
+}
+#thiRow{
+    margin-top: 4px;
+}
+#secRow{
+    margin-top: 4px;
+}
+#topLeft{
+    font-size: 50px;
+}
+#topMid{
+    font-size: 50px;
+}
+#topRight{
+    font-size: 50px;
+}
+#midLeft{
+    font-size: 50px;
+}
+#midMid{
+    font-size: 50px;
+}
+#midRight{
+    font-size: 50px;
+}
+#botLeft{
+    font-size: 50px;
+}
+#botMid{
+    font-size: 50px;
+}
+#botRight{
+    font-size: 50px;
+}
